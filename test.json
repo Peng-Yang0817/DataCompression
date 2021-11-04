@@ -1,0 +1,10 @@
+{
+    "Dog": {
+        "GoldenDog": "Woof!!~~",
+        "Age": 22
+    },
+    "Cat": {
+        "Tom": "Meow!!~~",
+        "Age": 115587
+    }
+}
